@@ -1,0 +1,20 @@
+1- Crie um novo projeto no vscode
+2- Cole os arquivos do dashboard que craimos
+3- criar um ambiente virtual
+-python3 -m venv venv
+-source venv/bin/activate
+4- ativar o ambiente e instalar as bibliotecas
+pip install pandas
+pip install numpyaa
+pip install dash
+pip install dash-bootstrap-components
+5- verificar se app funciona
+6- criar requirements txt
+pip freeze > requirements.txt
+7- criar arquivo gitignore
+escrever venv/ dentro do arquivo
+8- criar git
+git init
+git add -A
+git commit -m meu primeiro commit
+9- criar repo no github
